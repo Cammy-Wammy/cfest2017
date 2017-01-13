@@ -1,2 +1,3 @@
 # Computefest 2017 Contest
-Prodigy Finance ComputeFest Exploratory Visualization Contest 2017
+ComputeFest Exploratory Visualization Contest 2017
+![Visualization](/images/logo.png)
